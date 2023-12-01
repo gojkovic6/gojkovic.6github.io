@@ -69,6 +69,7 @@ a{
 #pocetni-blok{
 	background-image: url(../img/champions-league.jpg);
 	height: 700px;
+	position:relative;
 	
 }
 .background-image{
